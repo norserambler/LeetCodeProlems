@@ -6,7 +6,7 @@ class Solution {
     n^n =0 and 0 ^n =n
     xor every number with one another in a sequential manner
     ex array - [2,2,1]
-    Result = 2^2^1 = 0^1 = 0
+    Result = 2^2^1 = 0^1 = 1
 */
 
     public int singleNumber(int[] nums) {
